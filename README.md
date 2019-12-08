@@ -20,3 +20,9 @@ $ adb shell "su -c mount -o ro,remount /system"
 $ ~/tools/android/android-ndk-r20/toolchains/llvm/prebuilt/linux-x86_64/bin/armv7a-linux-androideabi21-clang ./g930f_dump-bootrom.c -L./ -lMcClient -o g930f_dump-bootrom
 $ adb push ./g930f_dump-bootrom /data/local/tmp/
 ```
+
+# usage
+Dump size is 0x1000 bytes. Offset is specified in argument:
+```
+$ /data/local/tmp/g930f_dump-bootrom <offset>
+```
