@@ -1,5 +1,5 @@
 // forked from https://www.synacktiv.com/posts/exploit/kinibi-tee-trusted-application-exploitation.html
-// to https://github.com/frederic/exynos-bootrom-dump
+// to https://github.com/frederic/exynos8890-bootrom-dump
 
 #include <stdio.h>
 #include <stdlib.h>
