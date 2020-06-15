@@ -1,7 +1,7 @@
 # [Exynos 8890 BootROM dump tool](https://github.com/frederic/exynos8890-bootrom-dump)
 This tool allows to dump the Exynos 8890 bootROM from a Samsung Galaxy S7 phone by exploiting two trustzone vulnerabilities.
 
-# [description](https://fredericb.info)
+# [description](https://fredericb.info/2020/06/exynos8890-bootrom-dump-dump-exynos-8890-bootrom-from-samsung-galaxy-s7.html)
 
 # target
 Samsung Galaxy S7 (G930F) - G930FXXU2DRD1 - root/SU enabled
